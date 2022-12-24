@@ -15,7 +15,7 @@ description: Biotheta (BiΘ) - a bacteriotherapies company
 
 <p>
 <h1>BiΘ</h1>
-bacteriotherapies
+A bacteriotherapies company
 </p>
 
 </div>
