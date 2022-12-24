@@ -1,0 +1,21 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: simple
+permalink: /
+description: Biotheta (BiΘ) - a bacteriotherapies company
+---
+
+
+<div style="align:center;padding-top:64px;text-align:center">
+
+
+<a href="https://biotheta.io"><img  src="/logo/logo.png" alt="Biotheta Logo" width=225pt></a>
+
+<p>
+<h1>BiΘ</h1>
+bacteriotherapies
+</p>
+
+</div>
