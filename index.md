@@ -13,7 +13,7 @@ description: Biotheta (BiΘ) - a bacteriotherapies company
 
 
 
-<a href="https://biotheta.io" style="display: inline-block; margin: 10px  0px 10px 0px" ><img  src="/logo/logo.png" alt="Biotheta Logo" width=225pt></a>
+<a href="https://biotheta.io" style="display: inline-block; margin: 10px  0px 10px 0px" ><img  src="/logo/logo_flat.svg" alt="Biotheta Logo" width=225pt></a>
 
 <h1 style="margin: 10px  0px 10px 0px">BiΘ</h1>
 
