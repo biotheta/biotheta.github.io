@@ -12,14 +12,14 @@ description: Biotheta (BiΘ) - a bacteriotherapies company
 <div style="align:center;padding-top:64px;text-align:center">
 
 
-<a href="https://biotheta.io"><img  src="/logo/logo.png" alt="Biotheta Logo" width=225pt></a>
 
-<p>
-<h1>BiΘ</h1>
-A bacteriotherapies company</p>
-<p>
-<a href="https://twitter.com/biotheta" style="display: inline-block; color: #000000"><i class="fa fa-twitter fa-lg"></i></a>
-</p>
+<a href="https://biotheta.io" style="display: inline-block; margin: 10px  0px 10px 0px" ><img  src="/logo/logo.png" alt="Biotheta Logo" width=225pt></a>
+
+<h1 style="margin: 10px  0px 10px 0px">BiΘ</h1>
+
+<p style="margin: 10px  0px 10px 0px">A bacteriotherapies company</p>
+
+<a href="https://twitter.com/biotheta" style="display: inline-block; color: #000000; margin: 10px  0px 10px 0px"><i class="fa fa-twitter fa-lg"></i></a>
 
 
 </div>
