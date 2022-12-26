@@ -7,8 +7,6 @@ permalink: /
 description: Biotheta (BiΘ) - a bacteriotherapies company
 ---
 
-<script src="https://kit.fontawesome.com/31fa76c185.js" crossorigin="anonymous"></script>
-
 <div style="align:center;padding-top:64px;text-align:center">
 
 
