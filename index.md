@@ -17,5 +17,4 @@ description: Biotheta (BiΘ) - a bacteriotherapies company
 
 <a href="https://twitter.com/biotheta" style="display: inline-block; color: #000000; margin: 10px  0px 10px 0px"><i class="fa fa-twitter fa-lg"></i></a>
 
-
 </div>
