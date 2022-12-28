@@ -12,7 +12,7 @@ description: About - BiΘ (Biotheta)
 - Etymology: From Ancient Greek βίο- (bío-), combining form and stem of βίος (bíos, “life”).
 - Prefix: bio-
     - life
-- biological
+    - biological
 
 **theta - /ˈTHādə,ˈTHēdə/**
 - Etymology: From Ancient Greek θῆτα (thêta).
