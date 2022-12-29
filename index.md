@@ -31,11 +31,9 @@ description: BiΘ (Biotheta)
 
 <a href="https://biotheta.io" style="display: inline-block; margin: 10px  0px 10px 0px" ><img  src="/logo/logo_flat.svg" alt="Biotheta Logo" width=225pt></a>
 
-<h1 style="margin: 10px  0px 10px 0px; color: #000000">
+<h1 style="margin: 10px  0px 10px 0px">
     <a href=about>BiΘ
      </a>
 </h1>
-
-<a href="https://twitter.com/biotheta" style="display: inline-block; color: #000000; margin: 10px  0px 10px 0px"><i class="fa fa-twitter fa-lg"></i></a>
-
+<a href="https://twitter.com/biotheta" style="display: inline-block; margin: 10px  0px 10px 0px"><i class="fa fa-twitter fa-lg"></i></a>
 </div>
