@@ -35,5 +35,7 @@ description: BiΘ (Biotheta)
     <a href=about>BiΘ
      </a>
 </h1>
-<a href="https://twitter.com/biotheta" style="display: inline-block; margin: 10px  0px 10px 0px"><i class="fa fa-twitter fa-lg"></i></a>
+
+<a href="https://twitter.com/biotheta" style="display: inline-block; margin: 10px  0px 10px 0px;font-size: 20px"><i class="fa fa-twitter fa-lg"></i></a>
+
 </div>
