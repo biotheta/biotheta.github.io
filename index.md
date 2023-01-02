@@ -6,7 +6,6 @@ layout: simple
 permalink: /
 description: BiΘ (Biotheta)
 ---
-
 <style>
       /* unvisited link */
       a:link {
