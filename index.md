@@ -26,7 +26,6 @@ description: BiΘ (Biotheta)
       }
 </style>
 
-
 <div style="align:center;padding-top:64px;text-align:center">
 
 <a href="https://biotheta.io" style="display: inline-block; margin: 10px  0px 10px 0px" ><img  src="/logo/logo_flat.svg" alt="Biotheta Logo" width=225pt></a>
